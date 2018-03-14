@@ -1,5 +1,5 @@
 # hello-world
-My First Repository
+
 Hi humans,
 
-Wenqian here, my dream job is to develop games and do game operation job. (That's why I am here).
+Wenqian here, my dream job is to develop games or design webpage. This is my first trial, hope it works well.
